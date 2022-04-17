@@ -12,11 +12,10 @@
  🛠️Skills
   -
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=dart&logoColor=white" alt="flutter Badge"/>
-  <img src="https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp Badge"/>
-  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
+   <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
+   <img src="https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp Badge"/>
+   <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=dart&logoColor=white" alt="flutter Badge"/>
    <img src="https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin Badge"/>
-     <img src="https://img.shields.io/badge/unity-grey?style=for-the-badge&logo=unity&logoColor=white" alt="unity Badge"/>
 </div>
 
 
