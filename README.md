@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Furkan. 
 
- - 🔭 I’m currently working on Mobile Programming with Kotlin and Flutter.
+ - 🔭 I’m currently working on Mobile Programming with Flutter.
  - 💬 Feel free to ask me questions.
  - 📫 How to reach me: Mail on <a href="mailto:furkan51cosgun@gmail.com">Furkan51cosgun@gmail.com</a>
  
