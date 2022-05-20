@@ -12,7 +12,7 @@ Mobile Developer
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [furkan51cosgun@gmail.com](mailto:furkan51cosgun@gmail.com)
 * 🚀  I'm currently working on [Flutter](http://flutter.dev/)
-* 🧠  I'm learning Web Development
+* 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Flutter projects
 
 ### Skills
