@@ -6,12 +6,12 @@ Hi 👋 My name is Furkan
 </div>
 
 
-Mobile Developer
+SAP ABAP DEVELOPER
 ----------------
 
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [furkan51cosgun@gmail.com](mailto:furkan51cosgun@gmail.com)
-* 🚀  I'm currently working on Mobile Development and Backend development
+* 🚀  I'm currently working on SAP ABAP DEVELOPER 
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
