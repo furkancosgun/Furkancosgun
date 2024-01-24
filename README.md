@@ -25,4 +25,4 @@ enddo.
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/furkannc"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/furkancosgun"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
